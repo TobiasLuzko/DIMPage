@@ -812,6 +812,7 @@ nav.open~.overlay {
     .firstAluminio {
         height: 40rem;
         width: 60%;
+        margin-bottom: 15rem
     }
 }
 
@@ -908,7 +909,7 @@ nav.open~.overlay {
 .high p {
     margin-top: 2rem;
     color: #000;
-    font-size: 15px;
+    font-size: 24px;
     font-weight: 500;
 }
 
@@ -1086,7 +1087,7 @@ nav.open~.overlay {
 .grid-item4 p {
     font-weight: 400;
     color: #000;
-    font-size: 11px;
+    font-size: 16px;
     padding: 14px;
 }
 
@@ -1163,7 +1164,7 @@ nav.open~.overlay {
     }
 
     .grid-item4 p {
-        font-size: 15px;
+        font-size: 20px;
     }
 
     .grid-item4 img {
